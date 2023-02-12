@@ -1,6 +1,6 @@
 ## Hello👋🏾. Thank you for visiting my profile 👩🏾‍💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+Portfolio...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=👩🏾‍💻+Welcome+to+my+GitHub+Profile...)](https://git.io/typing-svg)
 
 As a Data analyst, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
 

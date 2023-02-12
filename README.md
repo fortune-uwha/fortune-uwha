@@ -1,6 +1,6 @@
 ## Hello👋🏾. Thank you for visiting my profile 👩🏾‍💻
 
-<img src="https://github.com/fortune-uwha/fortune-uwha/blob/main/Github-Image.png" alt="banner that says Hi, I'm Fortune Uwha - I want to help others to make the right decisions, data-driven decisions alongside a cartoon illustration of Fortune">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+Portfolio...)](https://git.io/typing-svg)
 
 As a Data analyst, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
 

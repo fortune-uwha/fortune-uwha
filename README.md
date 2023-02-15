@@ -15,10 +15,10 @@ I am experienced in machine learning/supervised algorithms and use data visualiz
 
 ### 🌎Find me around the web 
 [![Mail me](https://img.shields.io/badge/fortune.uwha@gmail.com-c0392b?style=flat&logo=gmail&logoColor=white)](fortune.uwha@gmail.com)
-[![Twitter](https://img.shields.io/badge/@fortune_uwha-00ACEE?style=flat&logo=twitter&logoColor=white)](bit.ly/twitter-fortune)
-[![Blog](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white)](bit.ly/blog_fortune)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](bit.ly/fort_e)
-[![Website](https://img.shields.io/badge/Portfolio-black?style=flat&logo=Web&logoColor=white)](bit.ly/fortune_website)
+[![Twitter](https://img.shields.io/badge/@fortune_uwha-00ACEE?style=flat&logo=twitter&logoColor=white)](https://twitter.com/fortune_uwha)
+[![Blog](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white)](https://fortune-uwha.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fortune-uwha)
+[![Blog](https://img.shields.io/badge/Portfolio-black?style=flat&logo=Web&logoColor=white)](https://fortune-uwha.github.io/Fortune_Portfolio)
 
 ### 🛠 Languages and Tools
 [![Python Badge](https://img.shields.io/badge/-Python-F7CF45?style=flat&labelColor=212121&logo=python)](#)

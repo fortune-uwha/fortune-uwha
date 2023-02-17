@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=👩🏾‍💻+Welcome+to+my+GitHub+Profile...;😇+I+hope+you'll+stick+around...)](https://git.io/typing-svg)
 
+<img src="https://github.com/fortune-uwha/fortune-uwha/blob/main/profile_svg.svg" alt="Hello">
+
 As a Data analyst, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
 
 I am experienced in machine learning/supervised algorithms and use data visualization techniques to present the results. I use SQL, Python, Microsoft PowerBI and Tableau for my data projects.

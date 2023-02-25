@@ -35,13 +35,6 @@ I am experienced in machine learning/supervised algorithms and use data visualiz
 <code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="docker"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="heroku"></code>
 
- 
-[![Python Badge](https://img.shields.io/badge/-Python-F7CF45?style=flat&labelColor=212121&logo=python)](#)
-[![Snowflake](https://img.shields.io/badge/-Snowflake-24B6EC?style=flat&labelColor=212121&logo=Snowflake&logoColor=24B6EC)](#) 
-[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&labelColor=212121&logo=powerbi)](#) 
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&labelColor=212121&logo=tableau)](#) 
-[![Docker](https://img.shields.io/badge/-Docker-2497ED?style=flat&labelColor=212121&logo=Docker&logoColor=2497ED)](#) 
-
 ### :octocat: GitHub Statistics
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortune-uwha&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 

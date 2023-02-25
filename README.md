@@ -9,9 +9,14 @@ I am experienced in machine learning/supervised algorithms and use data visualiz
 <a href="https://github.com/sponsors/Fortune"><img align="right" width="150" height="150" src="https://github.com/fortune-uwha/fortune-uwha/blob/main/Gif/Fortune-octocat-rotating.gif?raw=true"></a> 
 
 ### 👩🏾‍💻Learn About Me
-- 🔭 I’m currently working on projects and blogging
+- 🔭 I’m currently working on projects and writing about it✏️
 - 🌱 I’m addicted to learning and growing every day
-- 🥅 Goals: Progress not perfection
+- 🥅 Goal: Progress not perfection
+
+### Check out my latest articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/2" alt="Recent Article 2"> 
 
 ### 🌎Find me around the web 
 [![Mail me](https://img.shields.io/badge/fortune.uwha@gmail.com-c0392b?style=flat&logo=gmail&logoColor=white)](fortune.uwha@gmail.com)

@@ -1,6 +1,6 @@
 ## Hello there! It's Fortune👋🏾
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=👩🏾‍💻+Welcome+to+my+GitHub+Profile...;😇+I+hope+you'll+stick+around...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=👩🏾‍💻+Welcome+to+my+GitHub+Profile...;🌨️❄️+I+hope+you'll+stick+around...)](https://git.io/typing-svg)
 
 As a Data analyst, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
 
@@ -13,7 +13,7 @@ I am experienced in machine learning/supervised algorithms and use data visualiz
 - 🌱 I’m addicted to learning and growing every day
 - 🥅 Goal: Progress not perfection
 
-### 📝Check out my latest articles on Medium
+### 📝 Check out my latest articles on Medium
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/2" alt="Recent Article 2"> 

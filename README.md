@@ -13,10 +13,11 @@ I am experienced in machine learning/supervised algorithms and use data visualiz
 - 🌱 I’m addicted to learning and growing every day
 - 🥅 Goal: Progress not perfection
 
-### Check out my latest articles
+### 📝Check out my latest articles on Medium
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/1" alt="Recent Article 1"> 
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fortune-uwha/3" alt="Recent Article 2"> 
 
 ### 🌎Find me around the web 
 [![Mail me](https://img.shields.io/badge/fortune.uwha@gmail.com-c0392b?style=flat&logo=gmail&logoColor=white)](fortune.uwha@gmail.com)
@@ -35,4 +36,3 @@ I am experienced in machine learning/supervised algorithms and use data visualiz
 ### :octocat: GitHub Statistics
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortune-uwha&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
-

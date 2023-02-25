@@ -28,11 +28,13 @@ I am experienced in machine learning/supervised algorithms and use data visualiz
 ### 🛠 Languages and Tools
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" title="Snowflake"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="docker"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="heroku"></code>
 
 ### :octocat: GitHub Statistics

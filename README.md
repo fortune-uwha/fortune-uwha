@@ -27,6 +27,16 @@ I am experienced in machine learning/supervised algorithms and use data visualiz
 [![Blog](https://img.shields.io/badge/Portfolio-black?style=flat&logo=Web&logoColor=white)](https://fortune-uwha.github.io/Fortune_Portfolio)
 
 ### 🛠 Languages and Tools
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" title="Snowflake"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="docker"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="heroku"></code>
+
+ 
 [![Python Badge](https://img.shields.io/badge/-Python-F7CF45?style=flat&labelColor=212121&logo=python)](#)
 [![Snowflake](https://img.shields.io/badge/-Snowflake-24B6EC?style=flat&labelColor=212121&logo=Snowflake&logoColor=24B6EC)](#) 
 [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&labelColor=212121&logo=powerbi)](#) 

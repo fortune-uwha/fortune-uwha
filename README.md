@@ -10,8 +10,8 @@ I am experienced in machine learning/supervised algorithms and use data visualiz
 
 ### 👩🏾‍💻Learn About Me
 - 🔭 I’m currently working on projects and blogging
-- 🌱 I’m currently learning everything
-- 🥅 Goals: 1% better everyday 
+- 🌱 I’m addicted to learning and growing every day
+- 🥅 Goals: Progress not perfection
 
 ### 🌎Find me around the web 
 [![Mail me](https://img.shields.io/badge/fortune.uwha@gmail.com-c0392b?style=flat&logo=gmail&logoColor=white)](fortune.uwha@gmail.com)

@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=👩🏾‍💻+Welcome+to+my+GitHub+Profile...;🌨️❄️+I+hope+you'll+stick+around...)](https://git.io/typing-svg)
 
-As a Data analyst, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
+As a Data analyst/scientist, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
 
-I am experienced in machine learning/supervised algorithms and use data visualization techniques to present the results. I use SQL, Python, Microsoft PowerBI and Tableau for my data projects.
+I am experienced in machine learning/supervised algorithms and use data visualization techniques to present the results. I use Python,SQL, Microsoft PowerBI and Tableau for my data projects.
 
 <a href="https://github.com/sponsors/Fortune"><img align="right" width="150" height="150" src="https://github.com/fortune-uwha/fortune-uwha/blob/main/Gif/Fortune-octocat-rotating.gif?raw=true"></a> 
 

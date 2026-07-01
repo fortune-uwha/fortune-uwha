@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fortune--uwha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fortune-uwha)
 [![Email](https://img.shields.io/badge/Email-fortune.uwha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fortune.uwha@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-1D4E89?style=for-the-badge&logo=netlify&logoColor=white)](https://fortune-uwha.github.io/Fortune_Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-1D4E89?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/fortune-uwha)
 ![Profile Views](https://komarev.com/ghpvc/?username=fortune-uwha&style=for-the-badge&color=1D4E89)
 
 </div>
